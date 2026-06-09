@@ -1,0 +1,3 @@
+Model,Accuracy,F1
+VGG16 + ReLU + CE,0.9725,0.9716
+FruitNet + CAF + FDL,0.9904,0.9904
