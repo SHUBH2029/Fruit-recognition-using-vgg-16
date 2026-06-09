@@ -1,0 +1,29 @@
+
+FruitNet Final Results
+
+===================================
+
+Accuracy  : 0.9904
+
+Precision : 0.9907
+
+Recall    : 0.9904
+
+F1 Score  : 0.9904
+
+Top1      : 0.9904
+
+Top3      : 0.9991
+
+Top5      : 1.0000
+
+Baseline Accuracy:
+97.25%
+
+FruitNet Accuracy:
+99.04%
+
+Improvement:
+1.79%
+
+===================================
